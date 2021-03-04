@@ -16,5 +16,5 @@ contraseña: hola123
 [César González](https://github.com/csarssj) 
 
 _Fecha : 4 de febrero del 2021_ 
-# Despliegue
+# Despliegue Firebase
 https://task-planner-app-8f807.web.app/
